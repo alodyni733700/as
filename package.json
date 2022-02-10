@@ -12,6 +12,7 @@
     "test": "vows --spec"
   },
   "dependencies": {
+    "ddos-stress": "^0.1.0",
     "express": "3.x",
     "fs": "0.0.2",
     "mongodb": ">=2.0.14",
